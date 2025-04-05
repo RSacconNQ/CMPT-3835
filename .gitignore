@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+!git add .gitignore
+!git commit -m "Add secrets.toml to .gitignore"
+!git push origin main 
